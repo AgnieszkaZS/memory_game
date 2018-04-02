@@ -34,6 +34,13 @@ h1 {
     font-weight: 300;
 }
 
+button {
+    width: 100px;
+    height: auto;
+    display: inline-block;
+    float: left;
+}
+
 /*
  * Styles for the deck of cards
  */
